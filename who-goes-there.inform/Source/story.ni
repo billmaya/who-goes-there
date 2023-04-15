@@ -8,6 +8,8 @@ The story creation year is 2023.
 
 Example Location is a room. 
 
+[ WORDS - 263 ]
+
 Volume - Beginning the Story
 
 When play begins:
